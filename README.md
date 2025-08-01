@@ -44,7 +44,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/rajsaumyaa]
+- 💼 LinkedIn: [linkedin.com/in/rajsaumyaa] https://www.linkedin.com/in/rajsaumyaa/
 - ✉️ Email: [rajsaumyaaa@gmail.com]
 - 🌐 Portfolio: *Coming soon*
 
