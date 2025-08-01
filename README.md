@@ -25,10 +25,10 @@
 
 ## 🔥 Featured Projects
 
-- 🌿 [Greenhouse Gas Emission Prediction](https://github.com/rajsaumyaa/Greenhouse-Gases-Emission-Prediction)  
+- 🌿 [Greenhouse Gas Emission Prediction]  
   Machine learning model to analyze and predict industrial emission patterns.
 
-- 🧠 [Java Quiz App](https://github.com/rajsaumyaa/quizz_)  
+- 🧠 [Java Quiz App]
   A command-line quiz application written in Java with scoring functionality.
 
 ---
