@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Machine Learning**, **Cybersecurity**, and **Network Engineering**  
 🎓 3rd-year B.Tech student with a love for building meaningful projects  
-🔭 Currently working on: `Greenhouse Gas Emission Prediction using ML`  
+🔭 Currently studying about cloud technologies of IBM 
 📚 Cybersecurity Elective + AI/ML Internship @ IBM SkillsBuild + Shell (AICTE Virtual Internship)  
 📌 Interested in research, tech-for-good, and practical solutions that scale  
 
@@ -24,6 +24,9 @@
 ---
 
 ## 🔥 Featured Projects
+
+ - [EcoLifestyle_AI_Agent]
+   AI powered-assistant using IBM Watsonx.ai to answer sustainability questions on eco-friendly living, recycling, green products, and government schemes with document-grounded responses.
 
 - 🌿 [Greenhouse Gas Emission Prediction]  
   Machine learning model to analyze and predict industrial emission patterns.
