@@ -6,6 +6,7 @@
 🌱 I’m currently learning **Machine Learning**, **Cybersecurity**, and **Network Engineering**  
 🎓 3rd-year B.Tech student with a love for building meaningful projects  
 🔭 Currently studying about cloud technologies of IBM 
+
 📚 Cybersecurity Elective + AI/ML Internship @ IBM SkillsBuild + Shell (AICTE Virtual Internship)  
 📌 Interested in research, tech-for-good, and practical solutions that scale  
 
