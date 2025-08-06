@@ -7,7 +7,7 @@
 🎓 3rd-year B.Tech student with a love for building meaningful projects  
 🔭 Currently studying about cloud technologies of IBM 
 
-📚 Cybersecurity Elective + AI/ML Internship @ IBM SkillsBuild + Shell (AICTE Virtual Internship)  
+📚 Cybersecurity Elective + AI and Cloud Technologies Internship @ IBM SkillsBuild + AI/ML Internship @Shell (AICTE Virtual Internship)  
 📌 Interested in research, tech-for-good, and practical solutions that scale  
 
 ---
