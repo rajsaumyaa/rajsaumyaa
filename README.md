@@ -30,6 +30,10 @@
 
    AI powered-assistant using IBM Watsonx.ai to answer sustainability questions on eco-friendly living, recycling, green products, and government schemes with document-  grounded responses.
 
+- [CareerMentor_AI_Agent]
+  
+  An AI-powered agent built using IBM Watsonx tools to provide personalized, data-driven career guidance for students by leveraging both uploaded documents and web resources.
+  
 - 🌿 [Greenhouse Gas Emission Prediction]  
   Machine learning model to analyze and predict industrial emission patterns.
 
