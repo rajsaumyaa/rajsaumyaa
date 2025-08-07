@@ -12,15 +12,14 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🛠️ Technologies & Tools 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+[Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -42,15 +41,20 @@
 
 ---
 
-## 📈 GitHub Stats:
-
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajsaumyaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rajsaumyaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaumyaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+
+
 
 ## 📫 Connect with Me
 
