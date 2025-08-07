@@ -42,12 +42,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsaumyaa&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsaumyaa&theme=radical" width="48%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=rajsaumyaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rajsaumyaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaumyaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ---
 
