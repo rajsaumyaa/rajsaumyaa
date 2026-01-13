@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 <h1 align="center">Hey 👋 I'm Saumya Raj</h1>
 <h3 align="center">🚀 CSE Undergrad | AI • Cybersecurity • Cloud | Turning Ideas into Impact</h3>
 
