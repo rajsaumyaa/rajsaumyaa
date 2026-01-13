@@ -1,89 +1,90 @@
-<h1 align="center">Hi 👋, I'm Saumya Raj</h1>
-<h3 align="center">🚀 Computer Science Undergrad | AI, Cloud & Cybersecurity Enthusiast | Problem Solver</h3>
-
----
-
-## 🌟 About Me
-
-* 🌱 Currently learning: **Machine Learning**, **Cybersecurity**, and **Network Engineering**
-* 🎓 3rd-year **B.Tech CSE** student passionate about building meaningful, scalable projects
-* ☁️ Exploring **Cloud Technologies** with **IBM SkillsBuild**
-* 💻 **Internships:**
-
-  * Cybersecurity, AI & Cloud Technologies Internship @ **EduSkills Foundation (IBM SkillsBuild)**
-  * AI/ML Internship @ **Shell** (AICTE Virtual Internship)
-* 📌 Interests: Research, tech-for-good solutions, and applied AI
-
----
-
-## 🛠️ Technologies & Tools
+cat << 'EOF' > README.md
+<h1 align="center">Hey 👋 I'm Saumya Raj</h1>
+<h3 align="center">🚀 CSE Undergrad | AI • Cybersecurity • Cloud | Turning Ideas into Impact</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Cybersecurity+Enthusiast;Cloud+Explorer;Problem+Solver;Learning+1%25+Every+Day&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🔥 Featured Projects
-
-* **EcoLifestyle_AI_Agent** – AI-powered assistant using **IBM Watsonx.ai** for sustainability queries with document-grounded responses.
-* **CareerMentor_AI_Agent** – Personalized career guidance system using AI and Watsonx tools with document + web context.
-* 🌿 **Greenhouse Gas Emission Prediction** – ML model analyzing and predicting industrial emission patterns.
-* 🧠 **Java Quiz App** – CLI-based quiz application with scoring and feedback.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rajsaumyaa&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=rajsaumyaa&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaumyaa&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-    width="40%"
-  />
-</p>
+## ✨ Who Am I?
+- 🎓 **3rd-year B.Tech CSE student** driven by curiosity and purpose  
+- 🌱 Deep-diving into **Machine Learning, Cybersecurity & Network Engineering**
+- ☁️ Exploring **Cloud & AI solutions** with **IBM SkillsBuild**
+- 🔍 Passionate about **research, scalable systems, and tech-for-good**
+- 🧠 Believe in **consistent growth over overnight success**
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Experience & Internships
+- 🔐 **Cybersecurity Elective + AI & Cloud Internship** — *IBM SkillsBuild*  
+- 🤖 **AI / Machine Learning Virtual Internship** — *Shell (AICTE)*  
 
+Hands-on exposure to real-world AI, security fundamentals, and cloud-based workflows.
+
+---
+
+## 🧰 Tech Stack & Tools
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=darkhub&no-frame=true&row=1&margin-w=15"
-    alt="GitHub Trophies"
-  />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,css,postman,gcp&perline=5" />
 </p>
 
+**Also familiar with:**  
+Scikit-Learn • Pandas • IBM Watsonx.ai • Cloud Fundamentals • API Testing
 
-## 📫 Connect with Me
+---
+
+## 🚀 Highlighted Projects
+- 🌱 **EcoLifestyle_AI_Agent**  
+  AI assistant powered by **IBM Watsonx.ai** delivering **document-grounded sustainability insights**  
+  *(eco-living, recycling, green products, government schemes)*
+
+- 🎯 **CareerMentor_AI_Agent**  
+  Personalized career guidance using **AI + document intelligence + web resources**
+
+- 🌍 **Greenhouse Gas Emission Prediction**  
+  Machine Learning model analyzing and predicting industrial emission patterns
+
+- 🧠 **Java Quiz Application**  
+  CLI-based Java app with scoring logic and instant feedback
+
+---
+
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsaumyaa&theme=tokyonight&show_icons=true&count_private=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rajsaumyaa&theme=tokyonight" height="165"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajsaumyaa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rajsaumyaaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaumyaa&layout=compact&theme=tokyonight" height="140"/>
 </p>
 
 ---
 
-*“Learning 1% every day, one repo at a time.”* 🚀
+## 🏆 Achievements & Milestones
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=tokyonight&no-frame=true&margin-w=6"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajsaumyaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rajsaumyaaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistency beats motivation. Building one meaningful repo at a time.”</i> 🚀
+</p>
+EOF
+
