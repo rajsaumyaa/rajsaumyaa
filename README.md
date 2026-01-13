@@ -64,9 +64,13 @@ Scikit-Learn • Pandas • IBM Watsonx.ai • Cloud Fundamentals • API Testin
 ---
 
 ## 🏆 Achievements & Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=onedark&no-frame=true&margin-w=6"/>
-</p>
+
+- 🎓 Completed **AI, Cloud & Cybersecurity internships** through **IBM SkillsBuild** , **Eduskills Foundations**, and **Shell (AICTE)**
+- 🤖 Designed and built **AI-powered agents** using **IBM Watsonx.ai** with document-grounded responses
+- 🌍 Developed a **Machine Learning model** for predicting industrial greenhouse gas emissions
+- 💻 Built multiple **Java & Python projects**, focusing on problem-solving and system design
+- 📈 Consistently improving **DSA, core CS fundamentals, and applied AI skills**
+
 
 
 ---
@@ -79,13 +83,16 @@ Scikit-Learn • Pandas • IBM Watsonx.ai • Cloud Fundamentals • API Testin
   <a href="mailto:rajsaumyaaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge"/>
+  <a href="https://saumya-raj-portfolio-kyhbcaf.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge"/>
+  </a>
 </p>
+
 
 ---
 
 <p align="center">
   <i>“Consistency beats motivation. Building one meaningful repo at a time.”</i> 🚀
 </p>
-EOF
+
 
