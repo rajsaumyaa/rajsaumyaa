@@ -9,11 +9,11 @@ cat << 'EOF' > README.md
 ---
 
 ## ✨ Who Am I?
-- 🎓 **3rd-year B.Tech CSE student** driven by curiosity and purpose  
-- 🌱 Deep-diving into **Machine Learning, Cybersecurity & Network Engineering**
-- ☁️ Exploring **Cloud & AI solutions** with **IBM SkillsBuild**
-- 🔍 Passionate about **research, scalable systems, and tech-for-good**
-- 🧠 Believe in **consistent growth over overnight success**
+-  **3rd-year B.Tech CSE student** driven by curiosity and purpose  
+-  Deep-diving into **Machine Learning, Cybersecurity & Network Engineering**
+-  Exploring **Cloud & AI solutions** with **IBM SkillsBuild**
+-  Passionate about **research, scalable systems, and tech-for-good**
+-  Believe in **consistent growth over overnight success**
 
 ---
 
@@ -65,8 +65,9 @@ Scikit-Learn • Pandas • IBM Watsonx.ai • Cloud Fundamentals • API Testin
 
 ## 🏆 Achievements & Milestones
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=tokyonight&no-frame=true&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=onedark&no-frame=true&margin-w=6"/>
 </p>
+
 
 ---
 
