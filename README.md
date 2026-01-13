@@ -45,11 +45,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsaumyaa&show_icons=true&count_private=true&theme=dark&hide_border=false" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=rajsaumyaa&theme=dark&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsaumyaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsaumyaa&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaumyaa&layout=compact&theme=dark&hide_border=false" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaumyaa&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -57,10 +58,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajsaumyaa&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 </p>
 
----
 
 ## 📫 Connect with Me
 
