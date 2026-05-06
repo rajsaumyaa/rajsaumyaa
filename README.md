@@ -1,6 +1,6 @@
 # Hi there, I'm Saumya Raj 👋
 
-### AI Systems Engineer | Agentic Pipelines | LLM Security
+### Aspiring AI Systems Engineer | Agentic Pipelines | LLM Security
 
 I build things end-to-end — from the model layer to production UI. Currently, I am deep in multi-agent architectures, prompt security research, and applying machine learning to real-world datasets.
 
@@ -11,8 +11,8 @@ I build things end-to-end — from the model layer to production UI. Currently, 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `Java` `JavaScript` `SQL` |
-| **AI/ML** | `LangGraph` `PyTorch` `Scikit-Learn` `Sentence Transformers` |
-| **LLM Infra** | `Groq` `IBM Watsonx.ai` `HuggingFace` |
+| **AI/ML** | `LangGraph` `Scikit-Learn` `Sentence Transformers` |
+| **LLM Infra** | `Groq` `IBM Watsonx.ai` |
 | **Backend** | `FastAPI` `Flask` `Node.js` `Express` |
 | **Frontend** | `React` `Streamlit` |
 | **Databases** | `PostgreSQL` `MongoDB` `Endee (Vector)` |
@@ -22,13 +22,13 @@ I build things end-to-end — from the model layer to production UI. Currently, 
 
 ## 🚀 Featured Projects
 
-### [ZeroPrompt — AI Security Firewall](https://github.com/yourusername/zeroprompt)
+### [ZeroPrompt — AI Security Firewall]([https://github.com/rajsaumyaa/zeroprompt_ai_firewall.git])
 *Real-time detection engine for prompt injection and jailbreak attacks.*
 * **Security Pipeline:** 4-stage engine featuring deobfuscation, pattern matching, semantic intent analysis, and context scoring.
 * **Capabilities:** Detects 12+ attack categories including SQLi, XSS, and encoded payloads.
 * **Tech:** Python, NLP, Semantic ML
 
-### [AstroAgent — RAG News Agent](https://github.com/yourusername/astroagent)
+### [AstroAgent — RAG News Agent][(https://github.com/rajsaumyaa/endee.git)]
 *Personalized space and science news agent built on a full RAG stack.*
 * **Engine:** Groq LLM with Sentence Transformers for high-speed embeddings and Endee as the vector store.
 * **Live Data:** Integrated with Spaceflight News API for real-time updates.
@@ -70,7 +70,7 @@ I build things end-to-end — from the model layer to production UI. Currently, 
 * 🎓 **B.Tech CSE**
 * 📍 **India**
 * 💼 **Open to SDE / AI Engineering roles**
-* 🐦 [Twitter](https://twitter.com/yourusername) | 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
+* 🐦 [Twitter](https://twitter.com/_samvi_) | 🔗 [LinkedIn](https://linkedin.com/in/rajsaumyaa)
 
 ---
 *“Building the interface between human intent and machine intelligence.”*
