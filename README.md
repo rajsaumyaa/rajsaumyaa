@@ -66,7 +66,6 @@ class SaumyaRaj:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -80,7 +79,6 @@ class SaumyaRaj:
 |--------|-------------|-------|
 | 🛡️ **[ZeroPrompt AI Firewall](https://github.com/rajsaumyaa)** | Real-time prompt injection & jailbreak detection engine with 4-stage pipeline. Detects 12+ attack categories including jailbreaks, SQLi, XSS & encoded payloads. | `Python` `NLP` `Regex` `Semantic ML` |
 | 🤖 **[AstroAgent](https://github.com/rajsaumyaa)** | Personalized space news AI agent with document-grounded retrieval using vector DB, Groq LLM & Spaceflight News API. | `Flask` `Groq` `Sentence Transformers` `Endee` |
-| 📊 **[PAIE-Track](https://github.com/rajsaumyaa)** | Social welfare program impact evaluation engine with RCT analysis, bias scanning & risk monitoring dashboard. | `React` `Node.js` `Python` `MongoDB` |
 | 🌱 **[EcoLifestyle AI Agent](https://github.com/rajsaumyaa)** | Document-grounded sustainability advisor powered by IBM Watsonx.ai for eco-living & green product insights. | `IBM Watsonx.ai` `Python` |
 | 🌍 **[GHG Emission Predictor](https://github.com/rajsaumyaa)** | ML model for analyzing and predicting industrial greenhouse gas emission patterns. | `Python` `Scikit-Learn` `Pandas` |
 
@@ -136,7 +134,6 @@ Completed a virtual AI and machine learning internship under the AICTE-Shell pro
 
 </div>
 
-> ⚙️ **To enable the snake animation:** Create a GitHub Action in your profile repo (`.github/workflows/snake.yml`) — instructions below in the Setup Guide.
 
 ---
 
@@ -160,9 +157,8 @@ Completed a virtual AI and machine learning internship under the AICTE-Shell pro
 | 🤖 Agentic AI | Multi-agent pipelines with LangGraph, Groq & IBM Watsonx.ai |
 | 🔐 Certifications | Cisco Cybersecurity, IBM SkillsBuild, Shell AICTE |
 | 🌍 ML Research | Greenhouse gas emission prediction model |
-| 📡 IEEE | Presented research at IEEE conference |
 | ☁️ AWS | Published on AWS Builder Center |
-| 🧩 Competitive | Active on HackWithInfy / Codeforces — Segment Trees, DP, Greedy |
+
 
 </div>
 
@@ -195,39 +191,3 @@ Completed a virtual AI and machine learning internship under the AICTE-Shell pro
 
 ---
 
-<details>
-<summary>⚙️ <b>Setup Guide — Enable Snake Animation</b></summary>
-<br>
-
-Create the file `.github/workflows/snake.yml` in your **profile repository** (`rajsaumyaa/rajsaumyaa`):
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rajsaumyaa
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Settings → Actions → General** and enable **Read and write permissions** for Actions. Run it once manually from the Actions tab.
-
-</details>
