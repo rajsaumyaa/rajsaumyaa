@@ -26,7 +26,7 @@
 
 ```yaml
 name        : Saumya Raj
-role        : B.Tech CSE Graduate
+role        : B.Tech CSE Under-Graduate
 focus       : [ Agentic AI, Cybersecurity, Full-Stack Development ]
 building    : AI-powered systems with real-world impact
 belief      : "Consistent growth over overnight success"
@@ -35,12 +35,11 @@ currently   : Open to SDE / AI / ML / Cybersecurity roles
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=rajsaumyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" />
 
-- 🎓 **B.Tech CSE Graduate** — driven by curiosity and purpose
+- 🎓 **B.Tech CSE UnderGraduate** — driven by curiosity and purpose
 - 🤖 Building **multi-agent AI pipelines**, LLM-powered apps & AI security tools
 - 🔐 Deep expertise in **ML, Cybersecurity & Full-Stack Development**
 - 📜 **Cisco Cybersecurity Certified** | Published on **AWS Builder Center**
-- 🏛️ **IEEE Conference Speaker**
-- 🌱 Always learning — competitive programmer at heart (Java 💙)
+- 🌱 Always learning — (Java 💙)
 - 📫 Reach me: **saumyaraj528@gmail.com**
 
 <br clear="right"/>
@@ -88,7 +87,6 @@ currently   : Open to SDE / AI / ML / Cybersecurity roles
 | 🌐 **Sentry AI** | Python · ML | Intrusion detection system using ML-based anomaly detection for network traffic. |
 | 🌍 **Multilingual Mandi AI** | Python · NLP | AI tool designed for multilingual agricultural market access. |
 | 🤖 **AstroAgent** | Flask · Groq · Sentence Transformers · Endee | Personalized space news AI agent with document-grounded responses via a vector DB pipeline. |
-| 📊 **PAIE-Track** | React · Node.js · Flask · MongoDB | Social welfare impact evaluation engine — RCT analysis, DiD/PSM/IV quasi-experimental methods, bias scanning & risk dashboards for NGOs. |
 | 🌿 **EcoLifestyle AI Agent** | IBM Watsonx.ai | Document-grounded sustainability AI assistant for eco-living insights. |
 | 📈 **GHG Emission Predictor** | Python · Scikit-Learn | ML model predicting industrial greenhouse gas emission patterns. |
 
@@ -167,11 +165,9 @@ currently   : Open to SDE / AI / ML / Cybersecurity roles
 |---|---|
 | 🛡️ | **Cisco Cybersecurity Certification** |
 | ☁️ | **Published on AWS Builder Center** |
-| 🎤 | **IEEE Conference Presenter** |
 | 🏅 | **IBM SkillsBuild — AI & Cybersecurity** |
 | 🤖 | **Shell (AICTE) — AI/ML Virtual Intern** |
 | 📊 | **Deloitte Data Analytics Simulation (Forage)** |
-| 🏆 | **OpenEnv Hackathon — Meta & Hugging Face** |
 
 ---
 
@@ -179,14 +175,15 @@ currently   : Open to SDE / AI / ML / Cybersecurity roles
 
 <div align="center">
 
+[![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/rajsaumya)
+
 > **Primary Language:** Java &nbsp;|&nbsp; **Focus:** Algorithms, Data Structures, System Design
 >
-> Active on **HackWithInfy** · **Codeforces** · Hackathons
+> Active on **Codechef** · **Leetcode** · **Hackathons**
 
 </div>
 
-**Topics Mastered:**
-`Segment Trees` · `Interval DP` · `Greedy Algorithms` · `Graph Algorithms` · `Binary Search` · `String Algorithms` · `Computational Geometry`
+> 💡 **Codolio** is my consolidated CP profile — tracking progress across platforms (LeetCode, Codeforces, CodeChef & more) in one place. Check it out 👉 [codolio.com/profile/rajsaumya](https://codolio.com/profile/rajsaumya)
 
 ---
 
@@ -198,6 +195,7 @@ currently   : Open to SDE / AI / ML / Cybersecurity roles
 [![Gmail](https://img.shields.io/badge/Gmail-saumyaraj528%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyaraj528@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://saumya-raj-portfolio-kyhbcaf.gamma.site/)
 [![GitHub](https://img.shields.io/badge/GitHub-rajsaumyaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajsaumyaa)
+[![Codolio](https://img.shields.io/badge/Codolio-rajsaumya-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/rajsaumya)
 
 </div>
 
