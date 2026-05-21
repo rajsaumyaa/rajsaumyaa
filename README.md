@@ -1,7 +1,7 @@
 # Saumya Raj
 
 **B.Tech CSE '27 · Galgotias University**
-Building agentic AI systems, security tools, and full-stack applications — with a focus on things that work in the real world.
+Building agentic AI systems, security tools, and full-stack applications - with a focus on things that work in the real world.
 
 I've shipped prompt injection firewalls, multi-agent SOC pipelines, and social impact AI engines. I compete in hackathons, and write code that solves actual problems. Currently open to **remote roles, freelance projects, and internships** in AI/ML, full-stack, or cybersecurity.
 
@@ -28,7 +28,7 @@ Real-time prompt injection and jailbreak detection as a security layer for AI ap
 - Built with Node.js/Express, deployed on Railway with a live vanilla JS monitoring dashboard
 - **Stack:** Node.js · Regex · Semantic NLP · Railway
 
-→ [View repo]((https://github.com/rajsaumyaa/zeroprompt_ai_firewall.git))
+→ [View repo](https://github.com/rajsaumyaa/zeroprompt_ai_firewall.git)
 
 ---
 
@@ -40,7 +40,7 @@ Personalized space and science news AI agent with document-grounded responses.
 - Space-themed frontend with real-time query handling
 - **Stack:** Flask · Groq · Sentence Transformers · Endee Vector DB · Python
 
-→ [View repo]([https://github.com/rajsaumyaa](https://github.com/rajsaumyaa/endee.git))
+→ [View repo](https://github.com/rajsaumyaa/endee.git)
 
 ---
 
@@ -50,7 +50,7 @@ AI tool for agricultural market access — designed for rural, multilingual user
 - Bridges the information gap between farmers and market pricing in regional languages
 - **Stack:** Python · NLP · Flask
 
-  → [View repo]([[https://github.com/rajsaumyaa](https://github.com/rajsaumyaa/endee.git)](https://github.com/rajsaumyaa/multilingual_mandi_ai.git))
+  → [View repo](https://github.com/rajsaumyaa/multilingual_mandi_ai.git)
 
 ---
 
