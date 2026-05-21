@@ -1,6 +1,7 @@
 # Saumya Raj
 
 **B.Tech CSE '27 · Galgotias University**
+
 Building agentic AI systems, security tools, and full-stack applications - with a focus on things that work in the real world.
 
 I've shipped prompt injection firewalls, multi-agent SOC pipelines, and social impact AI engines. I compete in hackathons, and write code that solves actual problems. Currently open to **remote roles, freelance projects, and internships** in AI/ML, full-stack, or cybersecurity.
