@@ -28,7 +28,7 @@ Real-time prompt injection and jailbreak detection as a security layer for AI ap
 - Built with Node.js/Express, deployed on Railway with a live vanilla JS monitoring dashboard
 - **Stack:** Node.js · Regex · Semantic NLP · Railway
 
-→ [View repo]([https://github.com/rajsaumyaa](https://github.com/rajsaumyaa/zeroprompt_ai_firewall.git))
+→ [View repo]((https://github.com/rajsaumyaa/zeroprompt_ai_firewall.git))
 
 ---
 
