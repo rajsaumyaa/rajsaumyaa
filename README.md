@@ -6,7 +6,7 @@ Building agentic AI systems, security tools, and full-stack applications - with 
 
 I've shipped prompt injection firewalls, multi-agent SOC pipelines, and social impact AI engines. I compete in hackathons, and write code that solves actual problems. Currently open to **remote roles, freelance projects, and internships** in AI/ML, full-stack, or cybersecurity.
 
-📬 [saumyaraj528@gmail.com](mailto:saumyaraj528@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rajsaumyaa/) · [Portfolio](https://saumya-raj-portfolio-kyhbcaf.gamma.site/) · [GitHub](https://github.com/rajsaumyaa)
+📬 [saumyaraj528@gmail.com](mailto:saumyaraj528@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rajsaumyaa/) · [Portfolio](https://portfolio-two-theta-b74jx5zmtk.vercel.app/) · [GitHub](https://github.com/rajsaumyaa)
 
 ---
 
