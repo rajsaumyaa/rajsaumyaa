@@ -123,4 +123,4 @@ I'm available for **remote work, freelance projects, and internships.** If you'r
 
 **Email:** saumyaraj528@gmail.com
 **LinkedIn:** [linkedin.com/in/rajsaumyaa](https://www.linkedin.com/in/rajsaumyaa/)
-**Portfolio:** [saumya-raj-portfolio](https://saumya-raj-portfolio-kyhbcaf.gamma.site/)
+**Portfolio:** [saumya-raj-portfolio](https://portfolio-two-theta-b74jx5zmtk.vercel.app/)
