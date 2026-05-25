@@ -49,7 +49,7 @@ Personalized space and science news AI agent with document-grounded responses.
 AI tool for agricultural market access — designed for rural, multilingual users.
 
 - Bridges the information gap between farmers and market pricing in regional languages
-- **Stack:** Python · NLP · Flask
+- **Stack:** HTML · CSS · JavaScript
 
   → [View repo](https://github.com/rajsaumyaa/multilingual_mandi_ai.git)
 
