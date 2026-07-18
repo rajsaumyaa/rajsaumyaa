@@ -10,15 +10,6 @@ I've shipped prompt injection firewalls, multi-agent SOC pipelines, and social i
 
 ---
 
-## What I'm building right now
-
-**PAIE-Track** — a Social Welfare Impact Evaluation Engine for NGOs.
-Helps organizations measure the real-world impact of AI interventions on vulnerable populations. Built on React + Node.js/Express + Python Flask + MongoDB, with automated metric scoring, exportable reports, and a structured cross-questioning framework for faculty and client demos.
-
-*Not pushed to GitHub yet — active development.*
-
----
-
 ## Projects
 
 ### 🛡️ ZeroPrompt AI Firewall
