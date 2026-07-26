@@ -62,7 +62,7 @@ Fake news detection app using large language models.
 **AI Intern — Edunet Foundation**
 Analyzed large-scale telecom datasets using Python, Pandas, and NumPy. Delivered structured data insights as part of an AI/ML project cycle.
 
-**Cybersecurity & AI — IBM SkillsBuild**
+**AI — IBM SkillsBuild**
 Covered AI security fundamentals, threat modeling, and cloud-based AI workflows.
 
 **Data Analytics Simulation — Deloitte (Forage)**
