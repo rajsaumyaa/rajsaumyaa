@@ -130,4 +130,8 @@ I'm available for **remote work, freelance projects, and internships.** If you'r
 **LinkedIn:** [linkedin.com/in/rajsaumyaa](https://www.linkedin.com/in/rajsaumyaa/)
 **Portfolio:** [saumya-raj-portfolio](https://portfolio-two-theta-b74jx5zmtk.vercel.app/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajsaumyaa)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsaumyaa&theme=aura_dark&animation=rise&name=Saumya+raj)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajsaumyaa&theme=aura_dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajsaumyaa&theme=aura_dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajsaumyaa&theme=aura_dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajsaumyaa&theme=aura_dark&animation=rise&utcOffset=0)
