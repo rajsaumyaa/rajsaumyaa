@@ -1,117 +1,67 @@
-# Saumya Raj
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-**B.Tech CSE '27 · Galgotias University**
+###
 
-Building agentic AI systems, security tools, and full-stack applications - with a focus on things that work in the real world.
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-I've shipped prompt injection firewalls, multi-agent SOC pipelines, and social impact AI engines. I compete in hackathons, and write code that solves actual problems. Currently open to **remote roles, freelance projects, and internships** in AI/ML, full-stack, or cybersecurity.
+###
 
-📬 [saumyaraj528@gmail.com](mailto:saumyaraj528@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rajsaumyaa/) · [Portfolio](https://portfolio-two-theta-b74jx5zmtk.vercel.app/) · [GitHub](https://github.com/rajsaumyaa)
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
----
+###
 
-## Projects
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-### 🛡️ ZeroPrompt AI Firewall
-Real-time prompt injection and jailbreak detection as a security layer for AI applications.
+###
 
-- 4-stage detection pipeline: deobfuscation → regex rules → semantic intent analysis → context scoring
-- Detects 12+ attack categories including SQL injection, XSS, encoded payloads, roleplay exploits, and jailbreaks
-- Built with Node.js/Express, deployed on Railway with a live vanilla JS monitoring dashboard
-- **Stack:** Node.js · Regex · Semantic NLP · Railway
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-→ [View repo](https://github.com/rajsaumyaa/zeroprompt_ai_firewall.git)
+###
 
----
+<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-### 🚀 AstroAgent
-Personalized space and science news AI agent with document-grounded responses.
+###
 
-- Vector DB pipeline using Sentence Transformers (`all-MiniLM-L6-v2`) + Endee for semantic retrieval
-- LLM responses grounded in retrieved documents — not hallucinated summaries
-- Space-themed frontend with real-time query handling
-- **Stack:** Flask · Groq · Sentence Transformers · Endee Vector DB · Python
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-→ [View repo](https://github.com/rajsaumyaa/endee.git)
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-### 🌍 Multilingual Mandi AI
-AI tool for agricultural market access — designed for rural, multilingual users.
+###
 
-- Bridges the information gap between farmers and market pricing in regional languages
-- **Stack:** HTML · CSS · JavaScript
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-  → [View repo](https://github.com/rajsaumyaa/multilingual_mandi_ai.git)
+###
 
----
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-### 📰 FakeGuard
-Fake news detection app using large language models.
-
-- Real-time credibility scoring using Groq LLaMA 3.3 70B
-- Clean Streamlit UI, deployable without infrastructure overhead
-- **Stack:** Python · Groq API · Streamlit
-
-→ [View repo](https://github.com/rajsaumyaa/fakeguard)
-
----
-
-## Experience
-
-**AI Intern — Edunet Foundation**
-Analyzed large-scale telecom datasets using Python, Pandas, and NumPy. Delivered structured data insights as part of an AI/ML project cycle.
-
-**AI — IBM SkillsBuild**
-Covered AI security fundamentals, threat modeling, and cloud-based AI workflows.
-
-**Data Analytics Simulation — Deloitte (Forage)**
-Worked through business-facing data problems — structuring analyses, building dashboards, communicating findings.
-
-**AI/ML Virtual Program — Shell (AICTE)**
-Applied ML workflows including supervised learning pipelines and model evaluation under industry guidance.
-
----
-
-## Certifications & Recognition
-
-- 🛡️ **Cisco Cybersecurity Certification**
-- ☁️ **Published on AWS Builder Center**
-- 🏅 IBM SkillsBuild — AI & Cybersecurity
-- 📊 Deloitte Data Analytics Simulation (Forage)
-- 🤖 Shell AICTE — AI/ML Virtual Program
-
----
-
-## Skills
-
-**Languages:** Python · Java · JavaScript · SQL · HTML · CSS
-
-**AI / ML:** LangGraph · Groq · Sentence Transformers · Scikit-Learn · PyTorch · IBM Watsonx
-
-**Full-Stack:** React · Node.js · Express · FastAPI · Flask · Streamlit
-
-**Databases:** MongoDB · PostgreSQL · Qdrant
-
-**DevOps & Tools:** Docker · Git · GitHub · Railway
-
-**Domains:** Agentic AI · Prompt Security · Intrusion Detection · NLP · RAG Pipelines
-
----
-
-## Competitive Programming
-
-**Primary language:** Java
-Active on LeetCode, CodeChef, and GFG — focused on algorithms, data structures, and timed problem-solving.
-
-→ [Consolidated CP profile on Codolio](https://codolio.com/profile/rajsaumya)
-
----
-
-## Let's talk
-
-I'm available for **remote work, freelance projects, and internships.** If you're building something interesting in AI, security, or full-stack — reach out.
-
-**Email:** saumyaraj528@gmail.com
-**LinkedIn:** [linkedin.com/in/rajsaumyaa](https://www.linkedin.com/in/rajsaumyaa/)
-**Portfolio:** [saumya-raj-portfolio](https://portfolio-two-theta-b74jx5zmtk.vercel.app/)
+###
