@@ -145,3 +145,5 @@ I'm available for **remote work, freelance projects, and internships.** If you'r
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajsaumyaa&theme=aura_dark&animation=rise)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajsaumyaa&theme=aura_dark&animation=rise)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajsaumyaa&theme=aura_dark&animation=rise&utcOffset=0)
+
+<a href="https://visitorbadge.io/status?path=rajsaumyaa"><img src="https://api.visitorbadge.io/api/visitors?path=rajsaumyaa&countColor=%23263759" /></a>
