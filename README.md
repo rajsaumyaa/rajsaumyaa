@@ -115,9 +115,9 @@ Applied ML workflows including supervised learning pipelines and model evaluatio
 
 **Full-Stack:** React · Node.js · Express · FastAPI · Flask · Streamlit
 
-**Databases:** MongoDB · PostgreSQL · Qdrant
+**Databases:** PostgreSQL · SQLite
 
-**DevOps & Tools:** Docker · Git · GitHub · Railway
+**Tools:** Git · GitHub 
 
 **Domains:** Agentic AI · Prompt Security · Intrusion Detection · NLP · RAG Pipelines
 
